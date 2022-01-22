@@ -1,0 +1,5 @@
+* add pgx bindings
+* add users
+* add dirs
+* add dirents
+* connect to db given on command line
