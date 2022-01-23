@@ -1,5 +1,5 @@
-* add pgx bindings
-* add users
-* add dirs
+* add columns.Time
+** add Table.Exists()
 * add dirents
 * connect to db given on command line
+* add pgx connection pool
